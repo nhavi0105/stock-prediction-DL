@@ -16,6 +16,7 @@ The project demonstrates a complete pipeline from:
 The repository is organized as follows:
 
 stock-prediction-DL/ 
+
 ├── app.py # FastAPI backend (model serving) 
 
 ├── app_ui.py # Streamlit dashboard (UI) 
