@@ -15,7 +15,14 @@ The project demonstrates a complete pipeline from:
 
 The repository is organized as follows:
 
-stock-prediction-DL/ │ ├── app.py # FastAPI backend (model serving) ├── app_ui.py # Streamlit dashboard (UI) ├── pipeline.py # Automation pipeline (Task 5.3) ├── db.py # SQLite database utilities ├── sample_data/ # Datasets used  ├── Final-project-DL4AI.ipynb # Model training notebook ├── README.md
+stock-prediction-DL/ 
+├── app.py # FastAPI backend (model serving) 
+├── app_ui.py # Streamlit dashboard (UI) 
+├── pipeline.py # Automation pipeline (Task 5.3) 
+├── db.py # SQLite database utilities 
+├── sample_data/ # Datasets used  
+├── Final-project-DL4AI.ipynb # Model training notebook 
+├── README.md
 
 ## 3. Key Features
 
